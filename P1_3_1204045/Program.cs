@@ -12,16 +12,22 @@ namespace P1_4_1204045
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine("ANAK AYAM TURUN 10");
+            Console.Write("ANAK AYAM TURUN ");
+
+            int ayam = Convert.ToInt16(Console.ReadLine());
 
             Console.WriteLine("");
-
-            for (int i = 10; i > 1; i--)
+            if (ayam == 10)
             {
-                Console.WriteLine("Anak ayam turunlah " + i + " mati satu tinggallah " + (i - 1));
-            }
-            Console.WriteLine("Anak ayam turunlah " + 1 + " mati satu tinggallah induknya");
+                for (int i = 10; i > 1; i--)
+                {
+                    Console.WriteLine("Anak ayam turunlah " + i + " mati satu tinggallah " + (i - 1));
+                }
+                Console.WriteLine("Anak ayam turunlah " + 1 + " mati satu tinggallah induknya");
 
+            }
+            
+            
         }
     }
 }

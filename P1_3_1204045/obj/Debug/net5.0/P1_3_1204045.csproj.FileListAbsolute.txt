@@ -1,0 +1,16 @@
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.exe
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.deps.json
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.runtimeconfig.json
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.runtimeconfig.dev.json
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.dll
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\ref\P1_3_1204045.dll
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\bin\Debug\net5.0\P1_3_1204045.pdb
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.csproj.AssemblyReference.cache
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.GeneratedMSBuildEditorConfig.editorconfig
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.AssemblyInfoInputs.cache
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.AssemblyInfo.cs
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.csproj.CoreCompileInputs.cache
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.dll
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\ref\P1_3_1204045.dll
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.pdb
+A:\KULIAH\repo\P1_3_1204045\P1_3_1204045\obj\Debug\net5.0\P1_3_1204045.genruntimeconfig.cache
